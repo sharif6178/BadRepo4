@@ -19,6 +19,7 @@ public class JavaLife {
 	    w = w.iterate();
 	    System.out.println("Iteration " + (j + 1) + ":");
 	    System.out.println(w.toString());
+
 	}
 		
     }
